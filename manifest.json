@@ -1,0 +1,14 @@
+{
+  "name": "Plan Course 16 semaines",
+  "short_name": "Plan Course",
+  "description": "Plan d'entraînement course — Aimer courir et atteindre 7:30/km",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f4ef",
+  "theme_color": "#c85a2e",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
